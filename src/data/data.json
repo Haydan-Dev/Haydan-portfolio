@@ -1,0 +1,54 @@
+{
+  "name": "Haydan",
+  "role": "Python Full-Stack Developer",
+  "bio": "I build scalable Single Page Applications with React and power them using high-performance Python FastAPI backends. Passionate about decoupled architecture, real-time systems, and bare-metal deployments.",
+  "about": "I'm a Python Full-Stack Developer specializing in bridging dynamic React frontends with high-performance FastAPI backends. My engineering focus is on decoupled architectures, real-time communication (WebSockets/WebRTC), and scalable database management using MongoDB and MySQL. From crafting responsive UIs to self-hosting infrastructure on bare-metal Ubuntu servers, I thrive on handling the complete data flow and building systems that solve real-world problems.",
+  "contact": {
+    "email": "mailto:Haydan.Dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/haydan-patel1462003",
+    "github": "https://github.com/Haydan-Dev/"
+  },
+  "skills": {
+    "Frontend": ["HTML", "CSS", "JS", "React", "Tailwind CSS"],
+    "Backend": ["Python", "FastAPI", "WebRTC", "WebSockets"],
+    "Database": ["MongoDB", "MySQL"],
+    "DevOps / Tools": ["Ubuntu Server", "Docker"]
+  },
+  "projects": [
+    {
+      "title": "Hamnasheen",
+      "description": "A secure, private messaging and calling application built for exclusive family communication. Features include real-time P2P audio/video, strict MVC architecture, and bare-metal deployment on a local Ubuntu server.",
+      "techStack": ["HTML", "CSS", "JS", "Python", "FastAPI", "WebSockets", "WebRTC"],
+      "github": "https://github.com/Haydan-Dev/Family-call.git",
+      "liveUrl": "https://abu-hurairah.tail6c8cb6.ts.net/"
+    },
+    {
+      "title": "DevFlow Dashboard",
+      "description": "A real-time analytics dashboard for engineering teams with customizable widgets, sprint tracking, and CI/CD pipeline visibility.",
+      "techStack": ["React", "Node.js", "PostgreSQL"],
+      "github": "https://github.com/haydan/devflow-dashboard",
+      "liveUrl": "https://devflow-demo.example.com"
+    },
+    {
+      "title": "TaskForge",
+      "description": "Collaborative project management tool featuring kanban boards, drag-and-drop task assignment, and team activity feeds.",
+      "techStack": ["TypeScript", "React", "GraphQL"],
+      "github": "https://github.com/haydan/taskforge",
+      "liveUrl": "https://taskforge.example.com"
+    },
+    {
+      "title": "API Gateway Kit",
+      "description": "Lightweight API gateway with rate limiting, JWT authentication, request logging, and OpenAPI documentation generation.",
+      "techStack": ["Node.js", "Docker", "AWS"],
+      "github": "https://github.com/haydan/api-gateway-kit",
+      "liveUrl": "https://api-kit.example.com"
+    },
+    {
+      "title": "Portfolio CMS",
+      "description": "Headless CMS for developers to manage portfolio content via JSON schemas, with instant static site generation.",
+      "techStack": ["React", "Vite", "Tailwind CSS"],
+      "github": "https://github.com/haydan/portfolio-cms",
+      "liveUrl": "https://portfolio-cms.example.com"
+    }
+  ]
+}
